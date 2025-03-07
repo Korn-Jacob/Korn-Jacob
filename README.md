@@ -1,7 +1,7 @@
-BCA ATCS '27\
+BCA ATCS '27
 
-Programming student\
+Programming student
 
-I make silly games and stuff sometimes.\
+I make silly games and stuff sometimes.
 
 Favorite programming language: 6502 assembly
